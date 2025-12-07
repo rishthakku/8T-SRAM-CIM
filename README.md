@@ -1,7 +1,7 @@
 # 8T-SRAM-CIM
 Architecturally eliminating the von Neumann bottleneck using a high-stability 8T SRAM Compute-In-Memory (CIM) macro designed and validated in 90 nm CMOS for high-throughput edge AI.
 
-**Team Members:** Prasanna Kumar, Rishabh TR, Sagar S Ajjaplar, Sampath Sajjan.
+**Team Members:** Prasanna Kumar, Rishabh TR, Sagar S Ajjapalar, Sampath Sajjan.
 
 ## 1. Executive Abstract: Eliminating the Memory Wall
 
